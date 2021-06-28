@@ -1,2 +1,2 @@
-# Games
-Self created games
+# Created Games
+Tic-Tac-Toe
